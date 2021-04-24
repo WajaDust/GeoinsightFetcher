@@ -1,6 +1,9 @@
 # GeoinsightFetcher
 GeoinsightFetcher test task gor Madgicx com.
 
+Using rapidapi Geo API
+API link: https://rapidapi.com/wirefreethought/api/geodb-cities
+
 Project requirements: python>3.6, pip3
 
 Running script requirements:
@@ -34,6 +37,7 @@ Running script requirements:
 4) Run help command to see commands explanation:
    
    python madgicx_geo.py --help
+
 
 
 Build project from scratch:
