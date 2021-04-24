@@ -32,7 +32,7 @@ def get_args():
                     print('Made by Russ Kovalchuk')
                     print('------------')
                     print('Use: \n '
-                          'python madgicx_geo.py <file_path>\n'
+                          'python madgicx_geo.py -f <file_path>\n'
                           ' python madgicx_geo.py <cities_names_iterated_with_commas>')
                 elif current_argument in ("-f", "--file"):
                     print("Entering from file (%s)" % current_value)
