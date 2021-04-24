@@ -24,7 +24,7 @@ Running script requirements:
 
     $ pip3 install virtualenv
    
-    $ virtualenv venv --python=python3.6
+    $ virtualenv venv --python=python3
 
     $ source venv/bin/activate
 
@@ -52,7 +52,7 @@ Build project from scratch:
 
     $ pip3 install virtualenv
    
-    $ virtualenv venv --python=python3.6
+    $ virtualenv venv --python=python3
 
     $ source venv/bin/activate
    
